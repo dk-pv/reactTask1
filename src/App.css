@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0
+}
+
+.light-theme{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dark-theme{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    background-color: black;
+}
+.switch-button{
+    height: 50px;
+    width: 150px;
+    font-weight:bold;
+    background-color: rgb(158, 16, 28);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
