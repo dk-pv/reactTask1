@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": ""
+    "homepage": "https://dk-pv.github.io/reactTask1/"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
